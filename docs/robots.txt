@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahmandiminhwf7b.github.io/fifa-v3/sitemap.xml
